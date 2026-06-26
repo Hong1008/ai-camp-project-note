@@ -4,3 +4,6 @@
 [submodule "projects/SKN30-2nd-4Team"]
 	path = projects/SKN30-2nd-4Team
 	url = https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN30-2nd-4Team.git
+[submodule "projects/SKN30-3rd-2Team"]
+	path = projects/SKN30-3rd-2Team
+	url = https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN30-3rd-2Team.git
